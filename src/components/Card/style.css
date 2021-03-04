@@ -1,0 +1,16 @@
+.Card {
+    background: white;
+    border-radius: 10px;
+    margin: 30px;
+    justify-content: center;
+}
+
+.Card_img {
+    text-align: center;
+}
+
+.Card__name {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 800;
+}
